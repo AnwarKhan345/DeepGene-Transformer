@@ -7,3 +7,10 @@ Cancer and its subtypes constitute approximately 30\% of all causes of death glo
 
 ![Fig_Panel](https://github.com/AnwarKhan345/DeepGene-Transformer/assets/57401537/0468cb0e-15bb-4611-bfd1-8790bc7b5d30)
 
+
+## Citation:
+Khan, A., & Lee, B. (2023). DeepGene Transformer: Transformer for the gene expression-based classification of cancer subtypes. Expert Systems with Applications, 226, 120047. 
+
+## Contact
+If you have any questions, or comments, or would like to report a bug, please file a Github issue or contact me at anwerkhan345@gmail.com/anwar.khan@kuleuven.be .
+
